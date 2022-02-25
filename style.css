@@ -5,3 +5,7 @@ p{
     text-decoration-color: blue;
     font: size 15px;
 }
+h1{
+    color:blue;
+    border:1px;
+}
